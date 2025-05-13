@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/lfglfernando/cse341-node#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^16.5.0",
+    "dotnet": "^1.1.4",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
   }
 }
