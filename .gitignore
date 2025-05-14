@@ -1,3 +1,5 @@
+//I already added the .env to this file gitignore
+
 /node_modules
 
 .env
